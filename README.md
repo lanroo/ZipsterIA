@@ -140,7 +140,9 @@ If you’d like to suggest a feature or fix an issue, please follow these steps:
 
 ---
 
-## **Support**
+## **Community Support**
+
+If you have ideas or would like to discuss features, please join the discussions tab or open an issue.
 
 For support, feel free to contact me through GitHub: [lanroo](https://github.com/lanroo).
 
